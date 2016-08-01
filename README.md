@@ -1,5 +1,4 @@
-# Bootstrap_galeria-magnificPopup
-Galeria criada em bootstrap | Magnific Popup
+# Galeria criada em bootstrap | Magnific Popup
 <h3>Galeria criada com bootstrap e zoom das imagens com Magnific Popup</h3><br>
 <p>Abaixo alguns links de apoio:</p>
 <a href="http://getbootstrap.com/getting-started/" target="_blank">Download Bootstrap</a><br>
