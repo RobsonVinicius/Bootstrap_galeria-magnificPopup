@@ -5,5 +5,5 @@
 <a href="http://globocom.github.io/bootstrap/" target="_blank">Globo Bootstrap - versão em português</a><br>
 <a href="http://dimsemenov.com/plugins/magnific-popup/" target="_blank">Magnific Popup</a>
 <br><br>
-<a href="https://robsonvinicius.github.io/Bootstrap_galeria-magnificPopup" target="_blank">Veja a demo</a>
+<a href="https://robsonvinicius.github.io/Bootstrap_galeria-magnificPopup/" target="_blank">Veja a demo</a>
 
